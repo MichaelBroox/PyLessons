@@ -1,0 +1,1 @@
+first_variable = int(input('Enter a value for principal: \n>>> '))
